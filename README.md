@@ -1,4 +1,3 @@
-#
 ## 👋 안녕하세요!
 <img src="https://img.shields.io/badge/dbstjr0773@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
 💪 꾸준히 성장하기 원하는 🔧DevOps 엔지니어가 되고 싶습니다.
